@@ -4,6 +4,7 @@
 - 💬 Ask me about Python, Machine Learning.
 - 📫 Reach me at: mdarshad1000@gmail.com
 - ⚡ Always up for a conversion on Football.
+- 🖊️ I write blogs <a href='mohammadarshadblog.herokuapp.com'>HERE</a><br>It also serves as my portfolio website
 
 
 
