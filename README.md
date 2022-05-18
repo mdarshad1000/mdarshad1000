@@ -4,12 +4,5 @@
 - 💬 Ask me about Python, Machine Learning.
 - 📫 Reach me at: mdarshad1000@gmail.com
 - ⚡ Always up for a conversion on Football.
-- 🖊️ I write blogs @ https://mohammadarshadblog.herokuapp.com <br>It also serves as my portfolio website
+- 🖊️ I write blogs @ https://mohammadarshadblog.herokuapp.com <br></t>It also serves as my portfolio website
 
-
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdarshad1000&theme=dark&show_icons=true)
