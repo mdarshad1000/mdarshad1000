@@ -1,4 +1,5 @@
-#    Hi there <img src="./Hi.gif" width="4px">
+# Hi there 
+<!-- <img src="./Hi.gif" width="4px"> -->
   I'm Mohammad Arshad, a sophomore pursuing BTech in Information Technology.
 - 🌱 I’m currently learning Machine Learning and exploring different Python libraries.
 - 💬 Ask me about Python, Machine Learning.
